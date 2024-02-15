@@ -83,4 +83,4 @@ curl -X DELETE localhost:3000/produto/id
 
 
 If you encounter any type of Authentication problem with your PostgreSQL:
-[Link do StackoverFlow](https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor)
+[Link of StackoverFlow](https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor)
