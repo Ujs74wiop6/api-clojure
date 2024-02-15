@@ -29,7 +29,7 @@ $ clone git@github.com:Ujs74wiop6/api-clojure.git
 
 First of all, fill in your Postgres information
 
-$ /crud/src/crud/repository/**migrations.clj**
+$ /api-clojure/src/crud/repository/**migrations.clj**
 
 ```bash
 (def db {:dbtype ""
