@@ -2,10 +2,10 @@
   (:require [clojure.java.jdbc :as jdbc]
             [crud.repository.migrations :as migrations]))
 
-(def db {:dbtype "postgresql"
+(def db {:dbtype ""
          :dbname "produto" 
-         :user "postgres"
-         :password "postdba"})
+         :user ""
+         :password ""})
 
 (def produto-table-ddl
   (jdbc/create-table-ddl "items" [[:id "SERIAL PRIMAY KEY"]
